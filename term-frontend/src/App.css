@@ -1,0 +1,8 @@
+:root{
+    --bg-color:#1D1D1D;
+}
+
+body{
+    background-color:var(--bg-color);
+    transition:0.3s ease;
+}
